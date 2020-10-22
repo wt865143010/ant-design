@@ -66,7 +66,7 @@ class PicturesWall extends React.Component {
       {
         uid: '-5',
         name: 'image.png',
-        status: 'error',
+        status: 'done',
       },
     ],
   };
